@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ankit  
 
-**Computational Neuroscience Enthusiast | Deep Learning Explorer | **
+**Computational Neuroscience Enthusiast | Deep Learning Explorer |**
 
 - 🧠 I’m passionate about **computational neuroscience**, decoding **neuronal encoding**, and building the bridge between **brains & AI**.  
 - 🤖 I love **Deep Learning**, **Spiking Neural Networks (SNNs)**, and **Reinforcement Learning**—with a dream to contribute to **AGI**.  
